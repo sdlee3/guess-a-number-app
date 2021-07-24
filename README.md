@@ -16,7 +16,7 @@
 <img src="Screenshots/landscape-ios.png" width="550" height="320" />
 </p>
 
-## Functionality of App
+## Steps to play the app
 1. Input a number for phone to guess.
 2. Click "Confirm" button to confirm the input number or click "Reset" button to reset the number choosen.
 3. Click "Start Game" button to start the game.
